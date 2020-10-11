@@ -4,9 +4,9 @@
 <title>homepage</title>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="c" %>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
- <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -145,7 +145,7 @@ text-decoration: none;
             </div>
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 27</li>
+                
                 <li><i class="icofont-rounded-right"></i> <strong>Education:</strong>Bachelor of Enginnering </li>
                 <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> sunilgowda444@gmail.com</li>
                 
@@ -153,8 +153,8 @@ text-decoration: none;
             </div>
           </div>
           <p>
-         Hey! I'm <b>sunil.</b> i am very passion about coding, why because coding is fun and crazy.I believe if we solve a problem in computer program we can able to solve our life problem in that way i learnt some programming languages.
-         I'm very close to nature because nature is the mother of creature.I always believe in my self its my first principle.
+         Hey! I'm <b>sunil.</b> i am very passion about coding, why because coding is fun and crazy.I believe if we solve a problem with computer programming language we can able to solve our life problem in that way i learnt some programming languages.
+         I'm very close to nature because nature is the mother of creature.I always believe in my self its my first principle. break the laziness and continue the programming.
              </p>
         </div>
       </div>
@@ -712,7 +712,8 @@ text-decoration: none;
             <div class="slinks">
             
               <li class="list-inline-item"><a href="http://api.whatsapp.com/send?phone=918892955017"class="fa fa-whatsapp" ></i></a></li>
-      		  <li class="list-inline-item"><a href="https://connect.facebook.net/kn_IN/sdk.js#xfbml=1&version=v8.0" class="fa fa-facebook"></i></a></li>
+      		  <li class="list-inline-item"><a href="https://www.facebook.com/sunilb.gowda.7" class="fa fa-facebook"></i></a></li>
+      		<li class="list-inline-item"><a href="mailto:sunilgowda444@gmail.com?subject=To contact&body=Email Using Mailto.co.uk" class="fa fa-google"></i></a></li>
       
             </div>
           </div>
