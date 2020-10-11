@@ -711,9 +711,9 @@ text-decoration: none;
             <h3>Social Profiles</h3>
             <div class="slinks">
             
-              <li class="list-inline-item"><a href="http://api.whatsapp.com/send?phone=918892955017"class="fa fa-whatsapp" ></i></a></li>
+              <li class="list-inline-item"><a href="http://api.whatsapp.com/send?phone=918861789246"class="fa fa-whatsapp" ></i></a></li>
       		  <li class="list-inline-item"><a href="https://www.facebook.com/sunilb.gowda.7" class="fa fa-facebook"></i></a></li>
-      		<li class="list-inline-item"><a href="mailto:sunilgowda444@gmail.com?subject=To contact&body=Email Using Mailto.co.uk" class="fa fa-google"></i></a></li>
+      		<li class="list-inline-item"><a href="mailto:sunilgowda444@gmail.com" class="fa fa-google"></i></a></li>
       
             </div>
           </div>
