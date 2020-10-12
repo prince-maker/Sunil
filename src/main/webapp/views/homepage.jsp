@@ -139,22 +139,22 @@ text-decoration: none;
               <ul>
                 
                 
-                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +918861789246</li>
-                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> yelandur</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> &nbsp +918861789246</li>
+                <li><i class="icofont-rounded-right"></i> <strong>City:</strong>&nbsp yelandur</li>
               </ul>
             </div>
             <div class="col-lg-6">
               <ul>
                 
-                <li><i class="icofont-rounded-right"></i> <strong>Education:</strong>Bachelor of Enginnering </li>
-                <li><i class="icofont-rounded-right"></i> <strong>Email:</strong> sunilgowda444@gmail.com</li>
+                <li><i class="icofont-rounded-right"></i> <strong>Education:</strong>&nbsp Bachelor of Enginnering </li>
+                <li><i class="icofont-rounded-right"></i> <strong>Email:</strong>&nbsp sunilgowda444@gmail.com</li>
                 
               </ul>
             </div>
           </div>
           <p>
          Hey! I'm <b>sunil.</b> i am very passion about coding, why because coding is fun and crazy.I believe if we solve a problem with computer programming language we can able to solve our life problem in that way i learnt some programming languages.
-         I'm very close to nature because nature is the mother of creature.I always believe in my self its my first principle. break the laziness and continue the programming.
+         I'm very close to nature because nature is the mother of creature.I always believe in my self its my first principle. <ul style="color:orange">"Break the laziness and continue the coding"</ul>Happy coding
              </p>
         </div>
       </div>
