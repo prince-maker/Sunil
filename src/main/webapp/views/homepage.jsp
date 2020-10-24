@@ -86,12 +86,16 @@ text-decoration: none;
     <div class="container">
 
       <h1 style="
-	font-size: 40px;
+	font-size: 50px;
 	-webkit-text-stroke: 1px black;
 	-webkit-text-fill-color: gold;">SUNIL</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      <h2 style="color:gold;">My passion is <span style="color:  #e62e00;">Software development</span> </h2>
+      <h2 style="font-size: 35px;
+	-webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: gold;"">My passion is <span style="font-size: 35px;
+	-webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: #e62e00;">Software development</span> </h2>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
