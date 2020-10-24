@@ -85,10 +85,10 @@ text-decoration: none;
   <header id="header" class="header-tops">
     <div class="container">
 
-      <h1 style="color:blue;">Sunil</a></h1>
+      <h1 style="color:gold;">Sunil</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      <h2 style="color:blue;">My passion is <span style="color:blue;">Software development</span> </h2>
+      <h2 style="color:gold;">My passion is <span style="color:  #e62e00;">Software development</span> </h2>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
