@@ -91,9 +91,9 @@ text-decoration: none;
 	-webkit-text-fill-color: gold;">SUNIL</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-      <h2 style="font-size: 35px;
+      <h2 style="font-size: 30px;
 	-webkit-text-stroke: 1px black;
-	-webkit-text-fill-color: gold;"">My passion is <span style="font-size: 35px;
+	-webkit-text-fill-color: gold;"">My passion is <span style="font-size: 30px;
 	-webkit-text-stroke: 1px black;
 	-webkit-text-fill-color: #e62e00;">Software development</span> </h2>
 
