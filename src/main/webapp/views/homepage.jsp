@@ -95,7 +95,7 @@ text-decoration: none;
 	-webkit-text-stroke: 1px black;
 	-webkit-text-fill-color: gold;"">My passion is <span style="font-size: 30px;
 	-webkit-text-stroke: 1px black;
-	-webkit-text-fill-color: #e62e00;">Software development</span> </h2>
+	-webkit-text-fill-color: #e62e00;">Software Development</span> </h2>
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
