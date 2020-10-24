@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>homepage</title>
+<title>Sunil</title>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="c" %>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
@@ -85,7 +85,10 @@ text-decoration: none;
   <header id="header" class="header-tops">
     <div class="container">
 
-      <h1 style="color:gold;">Sunil</a></h1>
+      <h1 style="
+	font-size: 40px;
+	-webkit-text-stroke: 1px black;
+	-webkit-text-fill-color: gold;">SUNIL</a></h1>
       <!-- Uncomment below if you prefer to use an image logo -->
       <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
       <h2 style="color:gold;">My passion is <span style="color:  #e62e00;">Software development</span> </h2>
